@@ -1,10 +1,4 @@
-# Project Name
-
-Project Description
-
-## Live Version
-
-This page is not yet deployed.
+This project is archived.
 
 <!--This page is currently deployed. [View the live website.]()-->
 
